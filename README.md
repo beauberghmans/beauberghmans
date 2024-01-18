@@ -14,5 +14,5 @@ I am currently also working at finishing my Technical Degree **Computer Network 
 
 
 
-</a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/45316016378e01bd8ef4400dff2de8adb5e5b7c29449ce9a78fbeb1e45fd1853/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6f64652d3030413935433f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6f6465266c6f676f436f6c6f723d7768697465"><img alt="Linode Badge" src="https://camo.githubusercontent.com/45316016378e01bd8ef4400dff2de8adb5e5b7c29449ce9a78fbeb1e45fd1853/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6f64652d3030413935433f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="max-width: 100%;"></a> 
+</a> <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Linode Badge" src="" data-canonical-src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="max-width: 100%;"></a> 
 
