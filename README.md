@@ -14,5 +14,5 @@ I am currently also working at finishing my Technical Degree **Computer Network 
 
 
 
-</a> <a target="_blank" rel="noopener noreferrer nofollow" href=""><img alt="Linode Badge" src="" data-canonical-src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="max-width: 100%;"></a> 
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 
