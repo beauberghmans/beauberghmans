@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Beau Berghmans
 
-Welcome to my GitHub! 
+Welcome to my GitHub!
+
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)
 
 ---
