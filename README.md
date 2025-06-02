@@ -46,15 +46,6 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](beauberghmans@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/beauberghmans)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beauberghmans&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beauberghmans&layout=compact)
-
----
-
 Thanks for stopping by! 🚀
 
 ---
