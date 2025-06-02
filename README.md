@@ -31,7 +31,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 
 ## 📫 Let’s Connect
 
-- [LinkedIn]([your-link](https://www.linkedin.com/in/beauberghmans/))  
+- [LinkedIn](https://www.linkedin.com/in/beauberghmans/)  
 
 ---
 
