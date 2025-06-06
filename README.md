@@ -14,7 +14,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 In my free time, I enjoy hitting the road and photographing the unique energy of each city I explore.
 
 <div align="center">
-  <img src="/me.jpg" align="center"/>
+  <img src="/picture.jpg" align="center"/>
 </div>
 
 ---
