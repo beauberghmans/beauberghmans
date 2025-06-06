@@ -4,6 +4,8 @@ Welcome to my GitHub!
 
 ---
 
+![image](https://github.com/user-attachments/assets/f9235481-46fd-4b1a-922c-778e9e3f54ee)
+
 ## 💼 About Me
 
 I’m an IT enthusiast working in the **digital workplace** and **end-user computing** space,  
