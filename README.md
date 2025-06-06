@@ -11,6 +11,8 @@ focused on improving systems, exploring automation, and continuously learning.
 
 I enjoy experimenting with new tools and scripting to make workflows smoother and more efficient.  
 
+In my free time, I enjoy hitting the road and photographing the unique energy of each city I explore.
+
 <div align="center">
   <img src="/me.jpg" align="center"/>
 </div>
