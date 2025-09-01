@@ -35,13 +35,12 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 ### 🧰 Primary Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=vsc&logoColor=white" />
 </p>
 
 ---
@@ -49,10 +48,9 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 ### 🔐 Security & Infrastructure Automation
 
 <p>
-  <img src="https://img.shields.io/badge/M365%20Security-0078D4?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/M365%20Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -60,10 +58,8 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 ### 🌐 Where I Engage
 
 <p>
-  <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Discussions-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
