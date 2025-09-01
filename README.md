@@ -26,7 +26,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 - Scripting and automation, mainly Powershell and Python
 - Microsoft Intune
 - Other technologies to grow my skillset
-<p align="center">
+<div align="center">
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)<br />
@@ -37,7 +37,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-</p>
+</div>
 ---
 
 Thanks for stopping by! 🚀
