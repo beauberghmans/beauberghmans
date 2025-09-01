@@ -57,16 +57,6 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 
 ---
 
-### 🧠 Certifications & Learning Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/AZ--104-blue?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-258FFA?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=white" />
-</p>
-
----
-
 ### 🌐 Where I Engage
 
 <p>
