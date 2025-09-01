@@ -27,20 +27,55 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 - Microsoft Intune
 - Other technologies to grow my skillset
 
+---
+
+## 🌱 Currently Exploring
+
+- Scripting and automation, mainly PowerShell and Python  
+- Microsoft Intune  
+- Other technologies to grow my skillset  
+
+---
+
+### 🧑‍💻 Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" /><br />
-  <br />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" /><br />
-  <br />
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
 </p>
+
+---
+
+### 🖥️ Systems & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Microsoft%20Intune-5E5E5E?logo=microsoft&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ IDEs & Editors
+
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
+</p>
+
+---
+
 
 ---
 
