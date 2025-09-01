@@ -34,7 +34,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 
 ### 🧰 Core Tools & Technologies
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
@@ -47,7 +47,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 
 ### 🔐 Security & Automation
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/M365%20Security-0078D4?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
@@ -57,7 +57,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 
 ### 🌐 Community & Collaboration
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
 </p>
