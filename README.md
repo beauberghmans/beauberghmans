@@ -38,6 +38,6 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 ## 🌐 Where I Engage
 
 <p dir="auto">
-<a href="" target="_blank" rel="noopener noreferrer"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;
-<a href="" target="_blank" rel="noopener noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/beauberghmans" target="_blank" rel="noopener noreferrer"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/beauberghmans" target="_blank" rel="noopener noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
 </p>
