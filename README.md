@@ -25,9 +25,9 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 - Security, containerization, and community engagement  
 
 <p dir="auto">
+<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;
 <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener noreferrer"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></a>&nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;
 <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"><img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>&nbsp;
