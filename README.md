@@ -1,7 +1,3 @@
-# 👋 Hi, I’m Beau Berghmans
-
-Welcome to my GitHub!
-
 ## 💼 About Me
 
 I’m an IT enthusiast working in the **digital workplace** and **end-user computing** space,  
