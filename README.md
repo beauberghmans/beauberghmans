@@ -40,11 +40,11 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 ---
 
 ### 🧰 Core Tools & Technologies
-
+<p>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
-
+</p>
