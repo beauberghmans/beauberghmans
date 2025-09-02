@@ -30,6 +30,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 <a href="https://learn.microsoft.com/microsoft-365/security/" target="_blank" rel="noopener noreferrer"><img alt="M365 Sec" src="https://img.shields.io/badge/M365%20Sec-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>&nbsp;
 <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
+</p>
 
 ## 🌐 Where I Engage
 
