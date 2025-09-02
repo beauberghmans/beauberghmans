@@ -20,7 +20,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 - Development in VS Code  
 - Security, containerization, and community engagement  
 
-<p dir="auto" center>
+<p dir="auto" align="center">
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;
 <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener noreferrer"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></a>&nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;
@@ -34,7 +34,7 @@ I enjoy experimenting with new tools and scripting to make workflows smoother an
 
 ## 🌐 Where I Engage
 
-<p dir="auto" center>
+<p dir="auto" align="center">
 <a href="https://github.com/beauberghmans" target="_blank" rel="noopener noreferrer"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/beauberghmans" target="_blank" rel="noopener noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
 </p>
